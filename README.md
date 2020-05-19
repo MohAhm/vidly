@@ -7,12 +7,12 @@ A video rental application.
 
 1. Clone the project
 ```
-git clone https://github.com/MohAhm/myreads.git
+git clone https://github.com/MohAhm/vidly.git
 ```
 
 2. Change into the app directory
 ```
-cd myreads
+cd vidly
 ```
 
 3. Install the dependencies
